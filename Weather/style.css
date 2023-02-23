@@ -1,1 +1,32 @@
-#submitbtn{display:none;}
+#search {
+    position: relative;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#weather {
+    position: relative;
+    height: auto;
+    margin-top: 20px;
+}
+
+#map_search {
+    position: relative;
+    height: 50px;
+    margin-top: 20px;
+}
+
+#timestamp {
+    position: relative;
+    height: 50px;
+    margin-top: 10px;
+}
+
+#mapid {
+    position: relative;
+    height: 700px;
+    /* width: 500rem; */
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
