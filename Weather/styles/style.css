@@ -67,8 +67,8 @@
     justify-content: center;
     align-items: center;
     flex-direction: column; */
-    /* background-image: url(map.jpg); */
-    /* background-repeat: no-repeat;
+/* background-image: url(map.jpg); */
+/* background-repeat: no-repeat;
     background-size: cover;
 } */
 
@@ -119,8 +119,8 @@ footer .social_icon li a:hover{
 }
 footer p
 { */
-    /* height: 650px; */
-    /* color: #fff;
+/* height: 650px; */
+/* color: #fff;
     text-align: center;
     margin-top: 15px;
     margin-bottom: 10px;
@@ -183,7 +183,7 @@ footer .wave#wave4
     position: absolute;
     height: 450px;
     filter: invert(0.5); */
-    /* width: 100%; */
+/* width: 100%; */
 /* }
 footer p
 {
